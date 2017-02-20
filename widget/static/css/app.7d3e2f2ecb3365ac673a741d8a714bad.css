@@ -252,4 +252,17 @@ li[data-v-2fd54c5d]{
      height: 60px;
 }
 
-/*# sourceMappingURL=app.edc843a51fc7f60e1680f7f939061163.css.map*/
+.map-container{
+	width: 100%;
+	height: 100%;
+}
+body, html,#allmap {width: 100%;height: 100%;overflow: hidden;margin:0;
+}
+#golist {display: none;
+}
+@media (max-device-width: 800px){
+#golist{display: block!important;
+}
+}
+
+/*# sourceMappingURL=app.7d3e2f2ecb3365ac673a741d8a714bad.css.map*/
